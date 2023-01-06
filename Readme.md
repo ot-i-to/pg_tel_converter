@@ -26,4 +26,4 @@ dateCreated: 2023-01-06T16:44:47.789Z
 
 > https://sysinfo.pro/ru/DateBASE/Postgresql/tel_convert
 > 
-{.is-info}
+
