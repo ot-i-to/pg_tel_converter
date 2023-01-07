@@ -1,13 +1,3 @@
----
-title: Untitled Page
-description: 
-published: true
-date: 2023-01-06T16:47:31.826Z
-tags: 
-editor: markdown
-dateCreated: 2023-01-06T16:44:47.789Z
----
-
 **FUNCTION: tel_convert(str_ text, rule_ text)**
 ##  
 Допустимые символы и их описание rule_:
